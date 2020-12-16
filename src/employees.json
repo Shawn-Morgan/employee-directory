@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Susie",
+    "last_name": "Homemaker",
+    "email": "shome@hotmail.com",
+    "occupation": "Fry Cook",
+    "location": "Topeka"
+  },
+  {
+    "id": 2,
+    "first_name": "Sam ",
+    "last_name": "Smith",
+    "email": "samsmith@yahoo.com",
+    "occupation": "Senior Programmer",
+    "location": "Lenexa"
+  },
+  {
+    "id": 3,
+    "first_name": "Dash",
+    "last_name": "Johnson",
+    "email": "djohnson@yahoo.com",
+    "occupation": "Cashier",
+    "location": "Lenexa"
+  },
+  {
+    "id": 4,
+    "first_name": "Dexter",
+    "last_name": " Daring",
+    "email": "dex_daring@yahoo.com",
+    "occupation": "Senior Programmer",
+    "location": "Topeka"
+  },
+  {
+    "id": 5,
+    "first_name": "Autumn",
+    "last_name": "Johns",
+    "email": "AJohns@gmail.com",
+    "occupation": "Customer Service",
+    "location": "Germantown"
+  },
+  {
+    "id": 6,
+    "first_name": "Doug",
+    "last_name": "Dougson",
+    "email": "doug_doug@gmail.com",
+    "occupation": "Student",
+    "location": "Overland Park"
+  },
+  {
+    "id": 7,
+    "first_name": "Bugs",
+    "last_name": "Bunny",
+    "email": "bbunn@gmail.com",
+    "occupation": "Looney Toon",
+    "location": "A Rabbit Burrow"
+  },
+  {
+    "id": 8,
+    "first_name": "Johnny",
+    "last_name": "Dare",
+    "email": "Johnny_Dare@hotmail.com",
+    "occupation": "Pilot",
+    "location": "Kansas City"
+  },
+  {
+    "id": 9,
+    "first_name": "Tommy",
+    "last_name": "Adamson",
+    "email": "t_adam123@hotmail.com",
+    "occupation": "Executive Secretary",
+    "location": "Lenexa"
+  },
+  {
+    "id": 10,
+    "first_name": "Rocko",
+    "last_name": "Rockport",
+    "email": "rockrock@gmail.com",
+    "occupation": "Cashier",
+    "location": "Germantown"
+  }
+]
